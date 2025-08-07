@@ -1,0 +1,1 @@
+This ia my first upload and i am trying to just descibe my code in here. I simply applied my recently acquired knowledge of coding to actually implement in finding the adjoint of a 3*3 matrix. I intent to further this by extending it to a larger matrix whose ize is unknown 
